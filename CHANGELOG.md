@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.21.1 (2026-02-18)
+
+Full Changelog: [v2.21.0...v2.21.1](https://github.com/openai/openai-python/compare/v2.21.0...v2.21.1)
+
+### Documentation
+
+* **api:** enhance method descriptions across audio, chat, realtime, skills, uploads, videos ([21f9e5a](https://github.com/openai/openai-python/commit/21f9e5aaf6ae27f0235fddb3ffa30fe73337f59b))
+
 ## 2.21.0 (2026-02-13)
 
 Full Changelog: [v2.20.0...v2.21.0](https://github.com/openai/openai-python/compare/v2.20.0...v2.21.0)
